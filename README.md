@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Antigravity - LM Studio Hybrid Environment
 
 This repository provides a lightweight **"Native Session Bridge"** that allows a cloud-based AI Agent (the "Manager") to delegate complex, context-heavy coding tasks to a local Expert Coder (the "Coder") running in LM Studio.
@@ -47,3 +48,4 @@ Add these delegation instructions to your agent's `SOUL.md` or `AGENTS.md`:
 This project is part of a growing movement to decentralize AI coding by combining the planning power of the cloud with the specialized strength of local hardware.
 
 **Created by**: [ReadyZer0](https://github.com/ReadyZer0)
+**Maintained by**: [Ali Dheyaa Abdulwahab](https://www.linkedin.com/in/ali-dheyaa-abdulwahab-6bbbb1239/)
