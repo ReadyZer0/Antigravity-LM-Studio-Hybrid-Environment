@@ -1,4 +1,4 @@
-# Hybrid Environment: LM Studio + Antigravity Bridge
+# Antigravity - Hybrid Environment
 
 This repository provides a lightweight "Native Session Bridge" that allows an AI Agent (the "Manager") to delegate complex coding tasks to a local Expert Coder (the "Coder") running in LM Studio.
 
