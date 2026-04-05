@@ -48,4 +48,4 @@ Add these delegation instructions to your agent's `SOUL.md` or `AGENTS.md`:
 This project is part of a growing movement to decentralize AI coding by combining the planning power of the cloud with the specialized strength of local hardware.
 
 **Created by**: [ReadyZer0](https://github.com/ReadyZer0)
-**Maintained by**: [Ali Dheyaa Abdulwahab](https://www.linkedin.com/in/ali-dheyaa-abdulwahab-6bbbb1239/)
+ [Ali Dheyaa Abdulwahab](https://www.linkedin.com/in/ali-dheyaa-abdulwahab-6bbbb1239/)
